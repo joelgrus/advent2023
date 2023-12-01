@@ -1,0 +1,7 @@
+ipython
+pandas
+numpy
+pytest
+pydantic
+black
+ruff
